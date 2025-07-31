@@ -1,0 +1,7 @@
+#wrapper-canvas canvas {
+    max-width: 100%;
+}
+.role {
+    color: #ff6347;
+    font-size: 50px;
+}
